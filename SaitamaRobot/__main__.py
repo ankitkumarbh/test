@@ -22,7 +22,6 @@ from SaitamaRobot import (
     SUPPORT_CHAT,
     StartTime,
     telethn,
-    updater,
 )
 
 # needed to dynamically load modules
