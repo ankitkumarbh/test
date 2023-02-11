@@ -7,7 +7,6 @@ python-telegram-bot
 psutil
 aiohttp
 Pillow
-git+https://github.com/starry69/python-markdown2.git
 pretty_errors
 datetime
 pytz
